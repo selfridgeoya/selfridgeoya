@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🤳 Connect With Me
 
 
-[<img align="left" alt="___ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] https://www.linkedin.com/in/christ-selfridge-oya-eloi/
+[<img align="left" alt="_https://www.linkedin.com/in/christ-selfridge-oya-eloi/__ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]: https://www.linkedin.com/in/christ-selfridge-oya-eloi/
 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
