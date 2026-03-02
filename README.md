@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/selfridgeoya/Threat-Hunting-Scenario-Tor-)**
+- **[Threat-Hunt-The-Brokerhttps] (https://github.com/selfridgeoya/Threat-Hunt-The-Broker)**
 - **[Network hardening and penetration testing](https://github.com/selfridgeoya/Network-hardening-and-penetration-testing)** 
 
 <hr/>
