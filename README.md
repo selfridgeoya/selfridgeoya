@@ -11,15 +11,15 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/selfridgeoya/Threat-Hunting-Scenario-Tor-)**
-- **[Threat-Hunt-The-Brokerhttps] (https://github.com/selfridgeoya/Threat-Hunt-The-Broker)**
+- **[Threat-Hunt-The-Broker (](https://github.com/selfridgeoya/Threat-Hunt-The-Broker)** 
 - **[Network hardening and penetration testing](https://github.com/selfridgeoya/Network-hardening-and-penetration-testing)** 
 
-<hr/>
+<hr/>   https://github.com/selfridgeoya/Threat-Hunt-The-Broker
 
 ## 🤳 Connect With Me
 
 
-[<img align="left" alt="_https://www.linkedin.com/in/christ-selfridge-oya-eloi/__ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] https://www.linkedin.com/in/christ-selfridge-oya-eloi/
+[<img align="left" alt="_https://www.linkedin.com/in/christ-selfridge-oya-eloi/__ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
