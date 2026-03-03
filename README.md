@@ -1,10 +1,12 @@
 # <a href="https://www.linkedin.com/in/christ-selfridge-oya-eloi/">Selfridge Oya Eloi </a>'s IT and Cybersecurity Portfolio 🔐
 
-I’m passionate about cybersecurity and continuously developing my skills through hands-on projects. My work focuses on threat detection, vulnerability management, system hardening, and security operations.
+I am passionate about cybersecurity and developing practical defensive skills through hands-on projects and real-world security simulations. My work focuses on threat detection, vulnerability management, and security operations.
 
-Through labs, threat hunting investigations, and remediation scripting, I aim to bridge the gap between theory and practical defense. Each project reflects my commitment to understanding how attacks happen — and how to detect, analyze, and prevent them.
+Through my projects, I investigate attack chains, perform threat hunting using Microsoft Defender for Endpoint and Microsoft Sentinel, and develop remediation strategies using PowerShell.
 
-Feel free to explore my repositories to see my approach to security operations, incident analysis, and defensive engineering.
+I hold a Certificate in Applied Cybersecurity from McGill University and certifications including ISC2 Certified in Cybersecurity (CC), Microsoft AZ-900, and Qualys Vulnerability Management Detection & Response.
+
+Feel free to explore my repositories to see how I approach security investigations and defensive engineering.
 
 ## ⚠️ Vulnerability Management Projects
 
