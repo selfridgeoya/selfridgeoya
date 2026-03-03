@@ -20,8 +20,7 @@ Feel free to explore my repositories to see my approach to security operations, 
 - **[Access-control-and-network-analysis](https://github.com/selfridgeoya/Access-control-and-network-analysis)**
 
 
-<hr/>   
-## 🤳 Connect With Me
+<hr/>   ## 🤳 Connect With Me
 
 
 [<img align="left" alt="_ /__ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
