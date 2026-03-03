@@ -28,7 +28,7 @@ Feel free to explore my repositories to see my approach to security operations, 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/_christ-selfridge-oya-eloi__________
+[linkedin]: https://linkedin.com/in/christ-selfridge-oya-eloi__________
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
