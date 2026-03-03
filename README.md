@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/christ-selfridge-oya-eloi/">Selfridge Oya Eloi </a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/christ-selfridge-oya-eloi/">Selfridge Oya Eloi </a>'s IT and Cybersecurity Portfolio 🔐
 
 I’m passionate about cybersecurity and continuously developing my skills through hands-on projects. My work focuses on threat detection, vulnerability management, system hardening, and security operations.
 
